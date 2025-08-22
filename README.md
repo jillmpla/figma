@@ -1,9 +1,14 @@
 # 💖 Celebrity Charm – Figma Prototype  
 
-Celebrity Charm is an online dating mobile application prototype built in [Figma](https://www.figma.com/file/ZmUEybEEPQMEpkQGaRHgpf/Prototype-Project-5%3A-Figma?type=design&node-id=0%3A1&mode=design).  
-It allows users to search for matches, review profiles, chat through text or video, and explore compatibility through quizzes and games.  
+Celebrity Charm is an online dating mobile application prototype built in [Figma](https://www.figma.com/). It allows users to search for matches, review profiles, chat through text or video, and explore compatibility through quizzes and games.  
 
-📌 This project was approached as a **full UX case study**, from storyboarding and wireframing to prototyping, user testing, and iteration.  
+> 📌 This project was approached as a **full UX case study**, from storyboarding and wireframing to prototyping, user testing, and iteration.  
+
+---
+
+## 🔗 Try the Live Prototype  
+
+- **[🔗 Interactive Figma Prototype](https://www.figma.com/file/ZmUEybEEPQMEpkQGaRHgpf/Prototype-Project-5%3A-Figma?type=design&node-id=0%3A1&mode=design&t=qOXEjvohKLT8lXFi-1)**  
 
 ---
 
@@ -16,7 +21,7 @@ Dating apps today often rely heavily on profile swiping, which can feel shallow 
 Explore how a dating app could combine traditional matching with playful, interactive activities and more personalized discovery.  
 
 **Solution**  
-Celebrity Charm integrates user preferences, profile reviews, text/video communication, and gamified experiences into one cohesive prototype. The Figma prototype was used to simulate real flows and test usability before high-fidelity branding or engineering.  
+Celebrity Charm integrates user preferences, profile reviews, text/video communication, and gamified experiences into one cohesive prototype. The Figma prototype was used to simulate real user flows and test usability.  
 
 ---
 
@@ -38,7 +43,7 @@ Celebrity Charm integrates user preferences, profile reviews, text/video communi
 
 ### Activities  
 - Play quizzes (e.g., *Fitness Fanatic or Zen Seeker?*)  
-- Try compatibility games (e.g., *Match Mosaic*)  
+- Try compatibility games (like "Match Mosaic")  
 - Archive and revisit completed results  
 
 ---
@@ -90,9 +95,8 @@ We conducted **in-person usability testing** with 4 participants.
 
 ## 📂 Repository Contents  
 
-- `figma_prototype_report.pdf` – Case study report including tasks, wireframes, patterns, user testing, and reflections  
-- `figma_direct_link_to_prototype.docx` – Figma link reference  
-- **[Interactive Figma Prototype](https://www.figma.com/file/ZmUEybEEPQMEpkQGaRHgpf/Prototype-Project-5%3A-Figma?type=design&node-id=0%3A1&mode=design&t=qOXEjvohKLT8lXFi-1)**  
+- `figma_prototype_report.pdf` - Case study report including tasks, wireframes, patterns, user testing, and reflections  
+- `figma_direct_link_to_prototype.docx` - Figma link
 
 ---
 
