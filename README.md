@@ -95,7 +95,7 @@ We conducted **in-person usability testing** with 4 participants.
 
 ## 📂 Repository Contents  
 
-- `figma_prototype_report.pdf` - Case study report including tasks, wireframes, patterns, user testing, and reflections  
+- `figma_prototype_report.pdf` - Case study report, including tasks, wireframes, patterns, user testing, and reflections  
 - `figma_direct_link_to_prototype.docx` - Figma link
 
 ---
