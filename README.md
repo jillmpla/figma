@@ -34,7 +34,7 @@ Celebrity Charm integrates user preferences, profile reviews, text/video communi
 ### Detail Review  
 - Browse admirers’ profiles with photos and details  
 - Heart, discard, or save-for-later  
-- Explore “Mutual Sparks” and suggested matches  
+- Explore "Mutual Sparks" and suggested matches  
 
 ### Communication  
 - Scroll through chats with matches  
@@ -42,7 +42,7 @@ Celebrity Charm integrates user preferences, profile reviews, text/video communi
 - View clear indicators for unread messages  
 
 ### Activities  
-- Play quizzes (e.g., *Fitness Fanatic or Zen Seeker?*)  
+- Complete quizzes (like "Fitness Fanatic or Zen Seeker?")  
 - Try compatibility games (like "Match Mosaic")  
 - Archive and revisit completed results  
 
