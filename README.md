@@ -14,13 +14,13 @@ Celebrity Charm is an online dating mobile application prototype built in [Figma
 
 ## 📖 Case Study Overview  
 
-**Inspiration & Problem Space**  
+**Inspiration & Problem Space:**  
 Dating apps today often rely heavily on profile swiping, which can feel shallow and repetitive. Many users want more ways to evaluate compatibility and interact meaningfully before meeting.  
 
-**Goal**  
+**Goal:**  
 Explore how a dating app could combine traditional matching with playful, interactive activities and more personalized discovery.  
 
-**Solution**  
+**Solution:**  
 Celebrity Charm integrates user preferences, profile reviews, text/video communication, and gamified experiences into one cohesive prototype. The Figma prototype was used to simulate real user flows and test usability.  
 
 ---
