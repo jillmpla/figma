@@ -100,4 +100,4 @@ We conducted **in-person usability testing** with 4 participants.
 
 ---
 
-📌 **This project demonstrates how high-fidelity Figma prototyping can simulate complex app interactions, validate usability through testing, and guide future development.**
+> 📌 **This project demonstrates how high-fidelity Figma prototyping can simulate complex app interactions, validate usability through testing, and guide future development.**
